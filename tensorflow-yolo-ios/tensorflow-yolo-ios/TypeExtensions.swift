@@ -1,9 +1,9 @@
 //
-//  TypeExtensions.swift
-//  cv-mobile
+//  AppDelegate.swift
+//  tensorflow-yolo-ios
 //
-//  Created by YuanKaiwen on 2017-06-06.
-//  Copyright © 2017 YuanKaiwen. All rights reserved.
+//  Created by Kaiwen Yuan on 2017-06-12.
+//  Copyright © 2017 Kaiwen Yuan. All rights reserved.
 //
 
 import Foundation
