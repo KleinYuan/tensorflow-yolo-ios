@@ -18,6 +18,10 @@ https://deep-learning-geeks-slack.herokuapp.com/
 
 [DeepBelief](https://github.com/jetpacapp/DeepBeliefSDK)
 
+brew install git-lfs
+git lfs install
+git lfs clone https://github.com/KleinYuan/tensorflow-yolo-ios
+
 
 # Note
 
